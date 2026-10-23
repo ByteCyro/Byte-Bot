@@ -23,6 +23,10 @@ Type any of the following slash commands into a channel where the bot is present
 
 ---
 
+## Working preview
+
+![Talking with the bot](./image.png)
+
 ## Artificial Intelligence Usage
 
 **Only used ai for some refrence for the search command which is still under development as I am new to javascript**
@@ -34,5 +38,5 @@ Type any of the following slash commands into a channel where the bot is present
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/ByteCyro/Crzyslack.git](https://github.com/ByteCyro/Byte-Bot.git)
+git clone [https://github.com/ByteCyro/Byte-Bot.git](https://github.com/ByteCyro/Byte-Bot.git)
 cd Byte-Bot
